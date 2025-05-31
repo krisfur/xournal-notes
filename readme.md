@@ -5,3 +5,6 @@ Just a repo to serve as backup of local notes.
 ```
 sudo dnf install xournalpp -y
 ```
+
+## Example screenshot
+![screenshot](screenshot.png)
